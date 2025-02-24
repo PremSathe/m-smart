@@ -26,7 +26,7 @@
   top: 0;
   width: 100%;
   height: 100%;
-  background: #e31837;
+  background: #8c1729;
   z-index: -1;
 }
 
@@ -162,6 +162,7 @@
   color: #666;
   font-size: 1.1rem;
   margin-bottom: 0.5rem;
+  margin-top: 0;
 }
 
 .welcome-section h2 {
